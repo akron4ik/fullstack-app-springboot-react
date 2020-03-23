@@ -1,0 +1,2 @@
+###TEST PROJECT
+I am a programmer in Java and Javascript. This project consists of a backend to Java (Springboot framework) and a frontend to React. This test project can be launched both locally or using Docker. Before launching the docker, go to the backend folder and make mvn clean install. Do not forget that I connected my Postgres DB. After that, in the front folder do yarn install and yarn build.
